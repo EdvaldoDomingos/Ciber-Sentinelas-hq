@@ -18,6 +18,18 @@ Para colocar o plano em prática, Edvaldo recruta jovens talentos ao redor do mu
 3. **Engajamento Acadêmico:** Aplicar conhecimentos interdisciplinares conectando tecnologia, ciência climática e criatividade em uma apresentação visual atrativa.
 
 ## 🗺️ Estrutura Inicial da HQ
+
+## ⚙️ Gerenciamento do Projeto (Metodologia SCRUM)
+
+O planejamento e a execução deste projeto seguem a metodologia ágil SCRUM. Utilizamos as ferramentas nativas do GitHub para transparência e acompanhamento público.
+
+*   **Link para o Painel de Gerenciamento Geral (Kanban):** [Acesse o GitHub Projects aqui](https://github.com) *(Substitua pelo link do seu Projeto)*
+*   **Link Direto para o Product Backlog (Issues):** [Acesse as GitHub Issues aqui](https://github.com) *(Substitua pelo link das suas Issues)*
+
+### ⏱️ Configuração da Sprint 1
+*   **Duração:** 1 semana (7 dias)
+*   **Objetivo da Sprint:** Consolidar a identidade visual da equipe, definir o design das fichas dos personagens e roteirizar o primeiro capítulo da HQ ("O Despertar da EcoNet").
+
 O projeto será dividido nas seguintes etapas dentro deste repositório:
 * `roteiro/`: Textos, diálogos e descrições das cenas de cada quadrinho.
 * `personagens/`: Fichas técnicas com os "superpoderes tecnológicos" de cada integrante do grupo.
