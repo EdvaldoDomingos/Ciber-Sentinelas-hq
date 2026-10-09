@@ -1,6 +1,6 @@
 # 🦸‍♂️ Os Ciber-Sentinelas (HQ - Grupo C) | X-ecoNet
 
-Repositório oficial para o desenvolvimento da história em quadrinhos da disciplina de Engenharia de Software. O projeto consiste em uma ficção científica no formato tecno-thriller inspirada no estilo clássico das HQs dos X-Men da Marvel.
+Repositório oficial para o desenvolvimento da história em quadrinhos da disciplina de Engenharia de Software do curso de Tecnologia em Sistemas para Internet. O projeto consiste em uma ficção científica no formato tecno-thriller inspirada no estilo clássico das HQs dos X-Men da Marvel.
 
 ## 👥 Integrantes
 
