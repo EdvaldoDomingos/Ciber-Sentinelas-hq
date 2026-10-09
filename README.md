@@ -38,7 +38,9 @@ O repositório está organizado nas seguintes pastas.
 
 O planejamento e a execução deste projeto seguem a metodologia ágil Scrum, com acompanhamento das tarefas em um quadro Kanban. Utilizamos as ferramentas nativas do GitHub para transparência e acompanhamento público.
 
-* Product Backlog (Issues) https://github.com/EdvaldoDomingos/Ciber-Sentinelas-hq/issues
+* **Product Backlog**, lista de tudo que precisa ser feito no projeto, registrada em Issues. [Acesse as Issues](https://github.com/EdvaldoDomingos/Ciber-Sentinelas-hq/issues)
+* **Sprint Backlog**, itens e tarefas escolhidos para a Sprint 1, reunidos em um Milestone. [Acesse o Milestone da Sprint 1](https://github.com/EdvaldoDomingos/Ciber-Sentinelas-hq/milestone/1)
+* **Kanban**, quadro para acompanhar o andamento das tarefas, feito no GitHub Projects. [Acesse o quadro Kanban](https://github.com/users/EdvaldoDomingos/projects/1/views/1)
 
 ### ⏱️ Configuração da Sprint 1
 
