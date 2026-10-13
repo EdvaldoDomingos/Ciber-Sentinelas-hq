@@ -1,1 +1,1 @@
-	Pasta com os rascunhos e as artes geradas.
+	Diretório de imagens do projeto.
